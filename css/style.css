@@ -580,7 +580,6 @@ Repeatable Patterns
 	}
 table {
 	/*width: 100%; */
-	float: left;
 }
 th,td {
 	border: 1px solid #333;
